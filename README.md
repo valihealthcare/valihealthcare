@@ -8,6 +8,8 @@ Hi there 😊
 
 We are Vali Healthcare LTD. Our aim is to modernise tools used in the healthcare sector, and we are starting by developing a tool for private healthcare service providors and pharmacies in the UK to communicate effectively and efficiently. We are looking to revolutionise the way healthcare works, by implementing the latest frameworks to solve current issues/implement solutions that free up human time and resources.
 
+We have also redefined the way we carry out system analysis, planning and application modelling. The saying goes, 'fail to plan, plan to fail'. We believe it is important, before we even write a single line of code, to really understand the problem at hand, this is a key ingredient to implementing amazing applications.
+
 Thank you for reading our bio :)
 
 <!---
